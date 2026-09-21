@@ -1,0 +1,20 @@
+Inicio
+
+	Escribe "Introduce un número 1"
+	Lee num1
+	Escribe "Introduce un número 2"
+	Lee num2
+	
+	Si num1 > num2 entonces
+		numIni = num1
+		numIni = num2 
+		
+	Sino
+		numIni = num1
+		numIni = num2
+		
+	Para i en ( numIni...numFin) hacer
+		Escribe i
+		
+Fin
+		
